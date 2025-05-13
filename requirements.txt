@@ -1,0 +1,9 @@
+This code requires the following:
+* Python>=3.7
+* PyTorch>=1.8.1
+* Numpy>=1.19.2
+* Scipy>=1.6.2
+* Scikit-learn>=0.24.1
+* Networkx>=2.5.1
+* Tqdm>=4.59.0
+* DGL==0.4.0
